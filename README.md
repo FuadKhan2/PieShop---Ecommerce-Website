@@ -1,4 +1,4 @@
-# PieShop 🍰
+# PieShop 
 
 A simple *front-end web project* for an online bookstore called *PieShop*.  
 This project showcases a responsive design using *HTML, **CSS, and **Bootstrap*.  
@@ -6,7 +6,7 @@ It includes product listings, a feedback carousel, and a structured footer for q
 
 ---
 
-## 🚀 Features
+## Features
 - *Responsive Layout* – Fully optimized for desktop and mobile views.
 - *Product Catalog* – Display products with prices and discounts.
 - *Search Bar* – A simple search input to find products quickly.
@@ -16,7 +16,7 @@ It includes product listings, a feedback carousel, and a structured footer for q
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - *HTML5* – Structure of the web pages  
 - *CSS3* – Styling and layout  
 - *Bootstrap 5* – Prebuilt responsive components  
